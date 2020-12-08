@@ -13,9 +13,6 @@
   O primeiro do <a href="https://cursoemvideo.com" target="_blank"> Curso em Vídeo </a>
 </h2>
 
-<p align>
-  <img src="print01.png">
-</p>
 
 1. Baixe os dois pacotes usados no curso:
    * No formato zip [aqui](pacotes);
